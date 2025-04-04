@@ -19,7 +19,7 @@ steps:
    - 'deploy'
    - 'py-bq-load'
    - '--image'
-   - 'gcr.io/udemy-mlops-455607/demo-flask-app:$COMMIT_SHA''
+   - 'gcr.io/udemy-mlops-455607/demo-flask-app:$COMMIT_SHA'
    - '--region'
    - 'us-central1'
    - '--allow-unauthenticated'
