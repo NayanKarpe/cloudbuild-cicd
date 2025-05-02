@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745409801136
+current_stage: None
+description: ''
+last_updated_timestamp: 1745409801136
+name: XGB-Smote
+run_id: 54dab0591021445a85688d790ee0b330
+run_link: ''
+source: file:///e:/Projects/Ml_ops/ML_Assignment/MLOps_Deployment/mlruns/663886932846066599/54dab0591021445a85688d790ee0b330/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/Projects/Ml_ops/ML_Assignment/MLOps_Deployment/mlruns/663886932846066599/54dab0591021445a85688d790ee0b330/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/Ml_ops/ML_Assignment/MLOps_Deployment/mlruns/663886932846066599/ff22fc15378c45d9a908b16fb6907d4f/artifacts
+end_time: 1745409773556
+entry_point_name: ''
+experiment_id: '663886932846066599'
+lifecycle_stage: active
+run_id: ff22fc15378c45d9a908b16fb6907d4f
+run_name: Logistic Regression
+run_uuid: ff22fc15378c45d9a908b16fb6907d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745409769958
+status: 3
+tags: []
+user_id: nayan

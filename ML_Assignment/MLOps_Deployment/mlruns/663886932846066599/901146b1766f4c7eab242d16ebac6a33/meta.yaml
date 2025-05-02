@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/Ml_ops/ML_Assignment/MLOps_Deployment/mlruns/663886932846066599/901146b1766f4c7eab242d16ebac6a33/artifacts
+end_time: 1745409779671
+entry_point_name: ''
+experiment_id: '663886932846066599'
+lifecycle_stage: active
+run_id: 901146b1766f4c7eab242d16ebac6a33
+run_name: XGBClassifier
+run_uuid: 901146b1766f4c7eab242d16ebac6a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745409776490
+status: 3
+tags: []
+user_id: nayan
